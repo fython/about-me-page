@@ -154,7 +154,7 @@
                 author: '烧饼 @fython',
                 author_blog_url: 'https://feng.moe',
                 author_avatar: {
-                    url: '/public/avatar.jpg',
+                    url: './public/avatar.jpg',
                     alt: '来自《此花亭绮谭》，非常治愈的日常番'
                 },
                 author_tags: [
