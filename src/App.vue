@@ -223,6 +223,3 @@
         }
     }
 </script>
-
-<style src="public/css/materialdesignicons.css"></style>
-<style src="public/css/font-awesome.css"></style>
