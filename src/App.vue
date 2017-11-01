@@ -28,7 +28,7 @@
                     <v-slide-y-transition mode="out-in">
                         <v-layout row wrap my-4>
                             <!-- Left card -->
-                            <v-flex d-flex xs12 sm4 offset-sm1>
+                            <v-flex d-flex xs12 sm5 md4 lg3 offset-md1 offset-lg2>
                                 <v-card id="left_card">
                                     <v-layout column align-center my-4 mx-3>
                                         <v-tooltip bottom>
@@ -62,7 +62,7 @@
                                 </v-card>
                             </v-flex>
                             <!-- Right card -->
-                            <v-flex d-flex xs12 sm6>
+                            <v-flex d-flex xs12 sm7 md6 lg5>
                                 <v-card id="right_card">
                                     <v-list two-line>
                                         <v-subheader inset>My information</v-subheader>
